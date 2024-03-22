@@ -35,7 +35,7 @@ export const projectsList = [
         "title": "Sophie Bluel",
         "formation": "OpenClassroom web integrator training course project.",
         "description": "For this portfolio site of an interior designer: Sophie Bluel, the mission was to integrate the dynamic part of the site, such as the creation of a gallery, the creation of a user login page as well as the possibility of managing images (add or delete), using javascript language and an API. This project allowed me to strengthen my knowledge of JavaScript as well as learn to communicate with a database.",
-        "picture": "sophie-bluel.png",
+        "picture": "sophie_bluel.jpg",
         "github" : "https://github.com/LeiKtl/OC-Projet6",
         "site" : ""
     },
@@ -55,7 +55,7 @@ export const projectsList = [
         "title" : "Nina Carducci",
         "formation" : "OpenClassroom web integrator training course project.", 
         "description" : "",
-        "picture" : "nina.webp",
+        "picture" : "nina.jpg",
         "github" : "https://github.com/LeiKtl/OC-Project9",
         "site" : "https://leiktl.github.io/OC-Project9/"
     }
