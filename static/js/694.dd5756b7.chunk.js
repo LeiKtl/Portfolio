@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[694],{694:(e,p,s)=>{e.exports=s.p+"static/media/kasa.1654513af767e6d7b860.jpg"}}]);

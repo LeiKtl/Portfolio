@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[350],{350:(e,a,p)=>{e.exports=p.p+"static/media/argent_bank.61a359ba949e836d5474.jpg"}}]);

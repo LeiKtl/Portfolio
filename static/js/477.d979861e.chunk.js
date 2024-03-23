@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[477],{477:(o,e,p)=>{o.exports=p.p+"static/media/ohmyfood.2a1e3a6a170024b40325.jpg"}}]);
