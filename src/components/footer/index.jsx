@@ -8,7 +8,7 @@ function Footer () {
         <footer className='footer'>
             <Link to="/contact" className='footer_contact'>Let's<br/>collaborate</Link>
             <div className='footer_container'>
-                <Link to="https://github.com/LeiKtl?tab=repositories">
+                <Link to="https://github.com/LeiKtl?tab=repositories" target='_blank'>
                     <img className='footer_container_logo1' src={githubLogo} alt='Github Logo'/>
                 </Link>
                 <img className='footer_container_logo2' src={linkedinLogo} alt='Linkedin Logo'/>

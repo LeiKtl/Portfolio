@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './project.scss';
-import { Link } from 'react-router-dom';
 import useImage from '../../hooks/useImage';
 
 function Project (props) {
@@ -44,11 +43,11 @@ function Project (props) {
                 </div>
                 <div className='container_modalProject_links'>
                     {
-                        props.codeLink ? <a href={props.codeLink} target='_blank' rel="noreferrer" className='container_modalProject_link'>Voir code</a> 
+                        props.codeLink ? <a href={props.codeLink} target='_blank' rel="noreferrer" className='container_modalProject_link'>Code</a> 
                         : <></>
                     }
                     {
-                        props.siteLink ? <a href={props.siteLink} target='_blank' rel="noreferrer" className='container_modalProject_link'>Voir site</a>
+                        props.siteLink ? <a href={props.siteLink} target='_blank' rel="noreferrer" className='container_modalProject_link'>Website</a>
                         : <></>
                     }        
                 </div>
