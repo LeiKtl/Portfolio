@@ -44,11 +44,11 @@ function Project (props) {
                 </div>
                 <div className='container_modalProject_links'>
                     {
-                        props.codeLink ? <Link to={props.codeLink} className='container_modalProject_link'>Voir code</Link> 
+                        props.codeLink ? <a href={props.codeLink} target='_blank' rel="noreferrer" className='container_modalProject_link'>Voir code</a> 
                         : <></>
                     }
                     {
-                        props.siteLink ? <Link to={props.siteLink} className='container_modalProject_link'>Voir site</Link>
+                        props.siteLink ? <a href={props.siteLink} target='_blank' rel="noreferrer" className='container_modalProject_link'>Voir site</a>
                         : <></>
                     }        
                 </div>
