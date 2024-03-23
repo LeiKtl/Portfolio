@@ -54,9 +54,29 @@ export const projectsList = [
         "number" : "/6",
         "title" : "Nina Carducci",
         "formation" : "OpenClassroom web integrator training course project.", 
-        "description" : "",
+        "description" : "For this project it was necessary to make a global optimization of the site of the photographer Nina Carducci, both in terms of performance and SEO, set up local referencing with schema.org, add metas for social networks and make the necessary modifications for the accessibility of the site. As well as providing an optimization report to the client so that they can see the different changes made and the impact it had on the site. So I learned to use the lighthouse tool, as well as the use of metas with schema.org. It also allowed me to strengthen my knowledge of HTML semantics for accessibility, as well as how to optimize images for a site.",
         "picture" : "nina.jpg",
         "github" : "https://github.com/LeiKtl/OC-Project9",
         "site" : "https://leiktl.github.io/OC-Project9/"
+    },
+    {
+        "id" : 7,
+        "number" : "/7",
+        "title" : "724 Events",
+        "formation" : "OpenClassroom web integrator training course project.", 
+        "description" : "For this project, the events agency 724 Event wanted to correct a few bugs on their site, particularly for the carousel as well as the display of the correct months and images for each of their events. To do this I learned to use the React developer tool as well as understand testing. It also taught me how to write unit tests for different components, and strengthen my knowledge of using the console in the middle of development.",
+        "picture" : "724_events.jpg",
+        "github" : "https://github.com/LeiKtl/OC-Project10",
+        "site" : ""
+    },
+    {
+        "id" : 8,
+        "number" : "/8",
+        "title" : "Argent Bank",
+        "formation" : "OpenClassroom web integrator training course project.", 
+        "description" : "For this project Argent Bank wanted to integrate their entire site using React and Redux as well as using green code best practices. They wanted the user to have access to their different accounts when login, and to have the possibility of changing the username on it (but not the possibility of changing the first or last name). Additionally they wanted a document with possible API routes that could be created to retrieves all transactions by accounts, given that they were in the creation phase. This project allowed me to strengthen my knowledge in the use of React, and to learn how to use Redux to set up a global state on a site, as well as to learn how to create API routes in yaml format.",
+        "picture" : "argent_bank.jpg",
+        "github" : "https://github.com/LeiKtl/Project11-OC",
+        "site" : ""
     }
 ]
